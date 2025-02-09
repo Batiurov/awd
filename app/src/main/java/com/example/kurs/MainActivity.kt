@@ -47,6 +47,7 @@ class MainActivity : ComponentActivity() {
                     ) {
                         Text("Перейти на SecondWindow")
                     }
+
                     DataScreen()
                 }
             }
